@@ -1,1 +1,3 @@
 # Pacman
+
+![Demo](pacman.png)
